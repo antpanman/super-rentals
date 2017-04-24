@@ -25,6 +25,8 @@ You will need the following things properly installed on your computer.
 * `ember serve`
 * Visit your app at [http://localhost:4200/super-rentals/](http://localhost:4200/super-rentals).
 * The sub-directory of 'super-rentals' was added to deploy to Tomcat
+* If the Google maps do not show up, you probably need to re-download the file with your API key appended. Run the following from the project root:
+`curl -o vendor/gmaps.js "https://maps.googleapis.com/maps/api/js?v=3.22&key=yourkey"`
 
 ### Code Generators
 
