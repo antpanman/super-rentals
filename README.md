@@ -23,7 +23,8 @@ You will need the following things properly installed on your computer.
 ## Running / Development
 
 * `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
+* Visit your app at [http://localhost:4200/super-rentals/](http://localhost:4200/super-rentals).
+* The sub-directory of 'super-rentals' was added to deploy to Tomcat
 
 ### Code Generators
 
